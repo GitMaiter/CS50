@@ -1,0 +1,4 @@
+﻿  CS50.cpp
+d:\learning\asp net - lessons\cs50\cs50\cs50.cpp(12): warning C4305: 'initializing': truncation from 'int' to 'char'
+d:\learning\asp net - lessons\cs50\cs50\cs50.cpp(12): warning C4309: 'initializing': truncation of constant value
+  CS50.vcxproj -> D:\Learning\ASP NET - lessons\CS50\Debug\CS50.exe
