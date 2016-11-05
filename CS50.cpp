@@ -5,35 +5,13 @@
 #include "stdafx.h"
 #include <stdio.h>
 #include <conio.h>
+#include "Mario.h"
 
 int main(void)
 {	
-	int var = 0;
-	do
-	{
-		printf("\n");
-		printf("height: ");
-		scanf_s("%d", &var);
-		printf("\n");
+	Mario mario = Mario();
 
-		if (var == 0)
-			return 0;
-
-	} while (var < 1 || var > 23);
-
-			for (int i = 0; i < var; i++)
-			{
-				for (int j = 0; j < var - i - 1; j++)
-				{
-					printf("%s", " ");
-				}
-
-				for (int k = 0; k < i + 2; k++)
-				{
-					printf("#");
-				}
-				printf("\n");
-			}
+	mario.PrintTriangle();
 
 	_getch();
 
