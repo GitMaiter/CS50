@@ -1,2 +1,6 @@
-﻿  CS50.cpp
-  CS50.vcxproj -> D:\Learning\ASP NET - lessons\CS50\CS50\Debug\CS50.exe
+﻿  stdafx.cpp
+  Mario.cpp
+  CS50.cpp
+  Generating Code...
+d:\learning\cs50\cs50\mario.h(43): warning C4715: 'Mario::PrintTriangle': not all control paths return a value
+  CS50.vcxproj -> D:\Learning\CS50\CS50\Debug\CS50.exe
