@@ -8,7 +8,6 @@
 
 int main(void)
 {	
-	printf("marion triangle\n");
 	int var = 0;
 	do
 	{
@@ -21,7 +20,6 @@ int main(void)
 			return 0;
 
 	} while (var < 1 || var > 23);
-
 
 			for (int i = 0; i < var; i++)
 			{
@@ -36,7 +34,6 @@ int main(void)
 				}
 				printf("\n");
 			}
-
 
 	_getch();
 
