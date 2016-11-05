@@ -8,8 +8,8 @@
 
 int main(void)
 {	
+	printf("marion triangle\n");
 	int var = 0;
-	char ch = '##';
 	do
 	{
 		printf("\n");
