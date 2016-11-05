@@ -8,6 +8,19 @@
 
 int main(void)
 {	
+
+
+
+
+
+
+
+
+
+
+
+
+
 	int var = 0;
 	do
 	{
