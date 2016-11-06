@@ -1,6 +1,9 @@
-﻿  stdafx.cpp
-  Mario.cpp
-  CS50.cpp
+﻿  CS50.cpp
+d:\learning\cs50\cs50\greedy.h(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
   Generating Code...
-d:\learning\cs50\cs50\mario.h(43): warning C4715: 'Mario::PrintTriangle': not all control paths return a value
+d:\learning\cs50\cs50\greedy.h(95): warning C4715: 'Greedy::MoneyChange': not all control paths return a value
+  Compiling...
+  Greedy.cpp
+d:\learning\cs50\cs50\greedy.h(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
   CS50.vcxproj -> D:\Learning\CS50\CS50\Debug\CS50.exe

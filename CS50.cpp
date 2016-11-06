@@ -6,13 +6,15 @@
 #include <stdio.h>
 #include <conio.h>
 #include "Mario.h"
+#include "Greedy.h"
 
 int main(void)
 {	
 	Mario mario = Mario();
+	Greedy greedy = Greedy();
 
-	mario.PrintTriangle();
-
+	//mario.PrintTriangle();
+	greedy.MoneyChange();
 	_getch();
 
     return 0;
